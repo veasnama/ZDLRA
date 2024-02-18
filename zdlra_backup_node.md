@@ -22,6 +22,14 @@
     ```sh
     ob > lsvol --library --long
     ```
+  - output
+
+    ```
+    in 1: vacant
+    in 2: vacant
+    in 3: vacant
+    in 4: vacant
+    ```
 
   - can ping to library and tape drive
     ```sh
